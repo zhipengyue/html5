@@ -328,6 +328,7 @@ grid 指定设备的类型
 # CSS
 ## 盒模型
 外边距边界(margin)边框边界(border)内边距边界(padding)内容边界
-
+![](https://images2017.cnblogs.com/blog/1265396/201711/1265396-20171119143703656-1332857321.png)
+![](https://images2017.cnblogs.com/blog/1265396/201711/1265396-20171119144229156-49945808.png)
 
 
