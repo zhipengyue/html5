@@ -323,7 +323,7 @@ grid 指定设备的类型
 缩写
 <abbr title="America">USA</abbr>
 
-hr
+<hr></hr>
 
 # CSS
 ## 盒模型
